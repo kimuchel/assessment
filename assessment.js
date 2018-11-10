@@ -36,6 +36,7 @@
         const result =assessment(userName);
         paragraph.innerText=result;
         resultDivided.appendChild(paragraph);
+        
 
         //tweetエリアの作成
         removeAllChildren(tweetDivided);
