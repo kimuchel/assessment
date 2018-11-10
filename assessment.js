@@ -37,6 +37,7 @@
         paragraph.innerText=result;
         resultDivided.appendChild(paragraph);
         
+        
 
         //tweetエリアの作成
         removeAllChildren(tweetDivided);
